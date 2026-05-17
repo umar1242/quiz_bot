@@ -1,0 +1,6 @@
+ venv/
+__pycache__/
+*.pyc
+database/quiz.db
+data/images/
+.env

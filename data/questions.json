@@ -1,0 +1,225 @@
+[
+  {
+    "category": "Биология",
+    "variant": "1",
+    "file_id": "AgACAgIAAxkDAAOVagmuKhQey1LaRGENOdDFFJSP48YAAmMaaxsfZElIthGkzfi0ndQBAAMCAAN4AAM7BA",
+    "correct": 2
+  },
+  {
+    "category": "Биология",
+    "variant": "1",
+    "file_id": "AgACAgIAAxkDAAOWagmuK2u-DTNuF6dsJFNqyWtxhsgAAmQaaxsfZElIZE5TNB_kZ8sBAAMCAAN4AAM7BA",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "1",
+    "file_id": "AgACAgIAAxkDAAOXagmuKzewqGw8BUutwoT-aiRN2_4AAmUaaxsfZElIXoOhsfVUoQwBAAMCAAN4AAM7BA",
+    "correct": 3
+  },
+  {
+    "category": "Биология",
+    "variant": "1",
+    "file_id": "AgACAgIAAxkDAAOYagmuKw8Pp5WjfI2FYqCp8sAYctIAAmYaaxsfZElIqL0laGtXfy0BAAMCAAN4AAM7BA",
+    "correct": 2
+  },
+  {
+    "category": "Биология",
+    "variant": "1",
+    "file_id": "AgACAgIAAxkDAAOZagmuLDOjD5O4OhFSTtJ0RGmDVsoAAmcaaxsfZElIqLyf4JVDAZMBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "1",
+    "file_id": "AgACAgIAAxkDAAOaagmuLNhxljw8RQpzfXjJgaexessAAmgaaxsfZElIbWrkQaxhVJcBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPgagm8ow72sXQAAamOJszwcj8IzH7vAAKlGmsbH2RJSPch_LLBBKIbAQADAgADeAADOwQ",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPhagm8o65-3c6mwR2gVAL7Ug2vzLUAAqYaaxsfZElIm2YFUIN2z3gBAAMCAANtAAM7BA",
+    "file_id2": "AgACAgIAAxkDAAPiagm8o3WCUC7uWd3vQK9SX0G8UcwAAqcaaxsfZElIcEjbc5z3a0gBAAMCAAN4AAM7BA",
+    "correct": 2
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPjagm8p-K8oq694FoFvAxormclo1kAAqgaaxsfZElIhplY4jq0fSgBAAMCAAN4AAM7BA",
+    "correct": 3
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPkagm8p3QchuS5_LSpdjdfApCgWuoAAqkaaxsfZElIf5WzW28THJIBAAMCAAN4AAM7BA",
+    "correct": 2
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPlagm8p98DZl8vOKMriNmBLDsxZC0AAqoaaxsfZElIkLkvWJ69QyMBAAMCAAN4AAM7BA",
+    "file_id2": "AgACAgIAAxkDAAPmagm8qLVG6utY2TWYAeyz5H68SrcAAqsaaxsfZElIvydqosBc3H8BAAMCAANtAAM7BA",
+    "correct": 2
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPnagm8qCR6uA6-HQvL6QtmiEPV8IoAAqwaaxsfZElIZLahpDqBfPIBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPoagm8qNV40S8XVDnAkiHjiZ9vtPYAAq0aaxsfZElI69Rd52OANzUBAAMCAAN4AAM7BA",
+    "correct": 3
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPpagm8qXCStGeqc3FZlVuLSbBoVI8AAq4aaxsfZElIhTHgO1BTC30BAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPqagm8qePepMAt7Tl4ePknheyMMQ8AAq8aaxsfZElIN6avt_lK65wBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPragm8qQe4vjd9RAUHQxPawStZLxoAArAaaxsfZElIEZTvxHayHAsBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPsagm8qlbFpfLMmE_M1YpJEgz1wSEAArEaaxsfZElIrz6IROitat8BAAMCAAN4AAM7BA",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPtagm8qtbzrVdhqpJU1_5jUxoPh7cAArMaaxsfZElIwY7lxl27l8EBAAMCAAN4AAM7BA",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPuagm8qhzKagABTxbgfOcqgrnLUQQzAAK0GmsbH2RJSFt14fIDGsgTAQADAgADeAADOwQ",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPvagm8qh2FgdGRstyMckO1rn6yMF0AArUaaxsfZElI8Ul6n38pKF4BAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPwagm8q7FWtsGBlUR-qN5kgYF-o8YAArYaaxsfZElIjBD0EvPs0jABAAMCAAN4AAM7BA",
+    "correct": 3
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPxagm8q64hc-75zuby5_UMdGQ8ouoAArcaaxsfZElIJbrA_6tbVqEBAAMCAAN4AAM7BA",
+    "file_id2": "AgACAgIAAxkDAAPyagm8qwX5v0GfbXwpjJoOo5P6NiYAArgaaxsfZElIPUDMOFYmMOsBAAMCAANtAAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAPzagm8q2JEo5heS7sNXK1ngOSWMMEAArkaaxsfZElIU1eHYyxld2gBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP0agm8rKUhzzsuV6B64CJHa3RgHNEAAroaaxsfZElIOC9HcJIi6-8BAAMCAAN4AAM7BA",
+    "file_id2": "AgACAgIAAxkDAAP1agm8rAABKPDxd0uBgFaq3zxDMzCVAAK7GmsbH2RJSMNnsIZMmUDqAQADAgADeAADOwQ",
+    "correct": 2
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP2agm8rB7w5CerHVW03c2NRpg8Lc8AArwaaxsfZElIH6dY5MwJDUcBAAMCAAN4AAM7BA",
+    "file_id2": "AgACAgIAAxkDAAP3agm8rFImm_dUCpE8nMewk6MOkGkAAr0aaxsfZElIa-NKCPMmBbEBAAMCAAN4AAM7BA",
+    "correct": 2
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP4agm8rWF0ccpnYJQNfdq3ItxotOgAAr4aaxsfZElIUcdYfY3r2aIBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP5agm8rd3cozUQyp3ekkmAklOIaQQAAr8aaxsfZElIZ-sCyy-F00QBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP6agm8riEQzUY_MmBRRdKtkWzS0skAAsAaaxsfZElIhuSkZ3J1ejwBAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP7agm8rmmocXxyzMpOAW_P46sqSQsAAsEaaxsfZElIAsTP7ZpHg0UBAAMCAAN4AAM7BA",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP8agm8rk49Oto3wRN99xFOlKGLVoYAAsIaaxsfZElI--SZJR06QoUBAAMCAAN4AAM7BA",
+    "correct": 3
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP9agm8rtxufOP1kNDPCsb2g9KWKaYAAsMaaxsfZElIratYRPOGRLIBAAMCAAN4AAM7BA",
+    "file_id2": "AgACAgIAAxkDAAP-agm8rxdBL8xLaJ0CDY2KtzjH3-gAAsQaaxsfZElIQ1ghN68qFxoBAAMCAAN4AAM7BA",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAP_agm8r2zcLPBWv3om_4DS6OGPyMsAAsUaaxsfZElIluS08byeq6ABAAMCAAN4AAM7BA",
+    "correct": 0
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAIBAAFqCbyvZ6lXi81tDgPIZfgmf5uGRgACxhprGx9kSUiMXxNDMsDOugEAAwIAA3gAAzsE",
+    "correct": 3
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAIBAWoJvK9TJv9LXy_xOVKtaoHmwxNSAALHGmsbH2RJSD6dCuGsr2DFAQADAgADeAADOwQ",
+    "correct": 1
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAIBAmoJvLDzno_kWaaVkCjPDqTi3YC5AALIGmsbH2RJSN9lxLOLJcK8AQADAgADeAADOwQ",
+    "file_id2": "AgACAgIAAxkDAAIBA2oJvLDRibrpicFRsRc9NTmvW8wfAALJGmsbH2RJSI2dyuqQBzD-AQADAgADeAADOwQ",
+    "correct": 3
+  },
+  {
+    "category": "Биология",
+    "variant": "2",
+    "file_id": "AgACAgIAAxkDAAIBBGoJvLAJVV_Up7uyvEqBbwLmpuk3AALKGmsbH2RJSGSeLuD0_AsOAQADAgADeAADOwQ",
+    "correct": 2
+  }
+]
