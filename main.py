@@ -62,7 +62,7 @@ async def main():
     dp.include_router(stats.router)
     dp.include_router(group_quiz.router)
 
-    await dp.start_polling(bot)
+    await dp.start_polling(bot, allowed_updates=["message", "poll_answer", "callback_query", "poll"])
 
 
 if __name__ == "__main__":
