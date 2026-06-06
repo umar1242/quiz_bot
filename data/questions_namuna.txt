@@ -1,0 +1,41 @@
++++
+Yorug'likning vakuumdagi tezligi qancha?
+===
+#3×10⁸ m/s
+===
+3×10⁶ m/s
+===
+3×10¹⁰ m/s
+===
+3×10⁴ m/s
++++
+Nyutonning ikkinchi qonuni qanday yoziladi?
+===
+F = m/a
+===
+F = a/m
+===
+#F = ma
+===
+F = m²a
++++
+Elektr zaryad birligi nima?
+===
+Vatt (W)
+===
+Volt (V)
+===
+Om (Ω)
+===
+#Kulon (C)
++++
+Issiqlik miqdori formulasi qaysi?
+===
+Q = mc²
+===
+#Q = mcΔT
+===
+Q = mΔT
+===
+Q = cΔT/m
++++
